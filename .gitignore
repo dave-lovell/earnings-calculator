@@ -5,5 +5,5 @@
 .DS_Store
 .quarto
 
-salaries/
-/**salaries.csv
+earnings-calculator/salaries.csv
+**salaries.csv
